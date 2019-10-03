@@ -1,3 +1,7 @@
+//Hallo Niels
+
+
+
 /*- 
 
 Als gebruiker wil ik een initieel bericht zien in de console die de gebruiker begroet 
